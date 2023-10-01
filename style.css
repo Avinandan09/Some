@@ -1,0 +1,21 @@
+#new{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration:overline;
+    height: 50px;
+    width:300px;
+    background-color: grey;
+    border-style: dashed;
+    border-color:aqua;
+    padding: 20px 30px 20px 30px;
+    margin: 20px 30px 20px 30px;
+    display: block;
+
+}
+button{
+    text-decoration:overline;
+    height:70px;
+    width:70px;
+    background-color:blue;
+}
